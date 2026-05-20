@@ -7,13 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/adhikariankit45" target="blank"><img src="https://img.shields.io/twitter/follow/adhikariankit45?logo=twitter&style=for-the-badge" alt="adhikariankit45" /></a> </p>
 
-- 🔭 I’m currently working on **Online Voting System**
-
-- 🌱 I’m currently learning **Frameworks, Courses, etc.**
-
 - 👨‍💻 All of my projects are available at [https://www.adhikariankit45.com.np/](https://www.adhikariankit45.com.np/)
-
-- 💬 Ask me about **JavaScript, java, C, Frameworks, etc.**
 
 - 📫 How to reach me **adhikariankit45@gmail.com**
 
